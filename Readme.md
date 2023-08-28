@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Crud utilizando Rect e laravel 
+Crud utilizando React e laravel 
 
 ## 🚀 Tecnologias
 
